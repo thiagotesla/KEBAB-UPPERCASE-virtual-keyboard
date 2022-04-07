@@ -1,0 +1,23 @@
+.teclas{
+    text-align: center;
+    align-items: center;
+    padding: 10px;
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+.texto {
+    text-align: center;
+    height: 300px;
+    margin-bottom: 1px;
+    padding: 10px;
+}
+body {
+    background-color:rgb(207, 205, 211)
+}
+hr {
+    color: black;
+    background-color: black;
+}
+button{
+    background-color: rgb(212, 212, 188);
+}
